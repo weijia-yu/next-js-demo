@@ -9,14 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
+    "next": "12.3.4",
+    "react": "^18.2.0",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "retell-client-js-sdk": "^1.3.3"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react": "^18.0.28",
+    "@types/node": "20.4.6",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
   }
 }
